@@ -7,9 +7,7 @@ const SearchPage = () => {
 		<div className="flex flex-col justify-between h-screen m-0 p-0">
 			<div className="m-0 p-0">
 				<Header />
-				<div className="sm:m-auto p-5 flex flex-col sm:w-4/5 h-100">
-					<div>search</div>
-				</div>
+				<div className="sm:m-auto p-5 flex flex-col sm:w-4/5 h-100">search</div>
 			</div>
 			<Footer />
 		</div>

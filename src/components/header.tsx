@@ -1,5 +1,5 @@
 import React from "react"
-import NavbarMenu from "../components/navbarMenu"
+import NavbarMenu from "./navbarMenu"
 
 const Header = () => {
 	return (

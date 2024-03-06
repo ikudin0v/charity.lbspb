@@ -2,6 +2,7 @@ import * as React from "react"
 import Header from "../components/header"
 import img from "../img/data.png"
 import Footer from "../components/footer"
+import ContactsData from "../components/contactsData"
 
 const MainPage = () => {
 	return (
@@ -24,7 +25,7 @@ const MainPage = () => {
 					</div>
 					<div className="p-5 flex flex-col">
 						<h1 className="text-2xl mt-3 font-semibold">Разделы электронной библиотеки:</h1>
-						<ul className="list-disc text-lg mt-2">
+						<ul className="list-disc text-lg mt-2 ms-5">
 							<li>Благотворительный Петербург прошлого на современной карте города</li>
 							<li>Благотворительные общества</li>
 							<li>Персоналии </li>
@@ -32,12 +33,7 @@ const MainPage = () => {
 						</ul>
 						<h2 className="text-xl mt-3 font-semibold">Контактная информация:</h2>
 						<p className="text-lg mt-2">Информационно-библиографический отдел:</p>
-						<ul className="list-disc text-lg mt-2">
-							<li>Адрес: Санкт-Петербург, ул.Стрельнинская, дом 11</li>
-							<li>Телефон: (812) 417-52-28</li>
-							<li>Email: infor@gscbs.ru</li>
-							<li>www.gbs.spb.ru </li>
-						</ul>
+						<ContactsData />
 					</div>
 				</div>
 			</div>

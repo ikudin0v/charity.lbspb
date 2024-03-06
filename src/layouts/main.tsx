@@ -10,10 +10,11 @@ const MainPage = () => {
 			<div className="m-0 p-0">
 				<Header />
 				<div className="sm:m-auto p-5 flex flex-col sm:w-4/5 h-100">
+					<h1 className="text-4xl text-center font-semibold mb-3">Благотворительный Петербург</h1>
 					<div className="sm:m-auto p-5 flex md:flex-row flex-col">
 						<img src={img} alt="" className="md:w-2/5 p-4 h-fit self-center m-auto" />
 						<div>
-							<h1 className="text-2xl mt-3 font-bold">Электронная библиотека &quot;Благотворительный Петербург&quot;</h1>
+							<h1 className="text-2xl mt-3 font-semibold">Электронная библиотека &quot;Благотворительный Петербург&quot;</h1>
 							<p className="text-lg mt-3">
 								Данный проект, реализуемый Санкт-Петербургской государственной специальной центральной библиотекой для слепых и слабовидящих, представляет собой систематизированные материалы
 								по истории благотворительности в Санкт-Петербурге.

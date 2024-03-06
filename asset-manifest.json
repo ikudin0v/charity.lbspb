@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/charity.lbspb/static/css/main.e233eea1.css",
-    "main.js": "/charity.lbspb/static/js/main.0aa80878.js",
+    "main.css": "/charity.lbspb/static/css/main.10ae1c25.css",
+    "main.js": "/charity.lbspb/static/js/main.b1aefe18.js",
     "static/media/data.png": "/charity.lbspb/static/media/data.5ce416eac45c35abc5d2.png",
     "index.html": "/charity.lbspb/index.html",
-    "main.e233eea1.css.map": "/charity.lbspb/static/css/main.e233eea1.css.map",
-    "main.0aa80878.js.map": "/charity.lbspb/static/js/main.0aa80878.js.map"
+    "main.10ae1c25.css.map": "/charity.lbspb/static/css/main.10ae1c25.css.map",
+    "main.b1aefe18.js.map": "/charity.lbspb/static/js/main.b1aefe18.js.map"
   },
   "entrypoints": [
-    "static/css/main.e233eea1.css",
-    "static/js/main.0aa80878.js"
+    "static/css/main.10ae1c25.css",
+    "static/js/main.b1aefe18.js"
   ]
 }
